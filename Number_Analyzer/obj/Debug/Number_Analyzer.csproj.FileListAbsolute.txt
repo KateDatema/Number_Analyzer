@@ -1,0 +1,6 @@
+/Users/katedatema/Projects/Number_Analyzer/Number_Analyzer/obj/Debug/Number_Analyzer.csprojAssemblyReference.cache
+/Users/katedatema/Projects/Number_Analyzer/Number_Analyzer/obj/Debug/Number_Analyzer.csproj.CoreCompileInputs.cache
+/Users/katedatema/Projects/Number_Analyzer/Number_Analyzer/bin/Debug/Number_Analyzer.exe
+/Users/katedatema/Projects/Number_Analyzer/Number_Analyzer/bin/Debug/Number_Analyzer.pdb
+/Users/katedatema/Projects/Number_Analyzer/Number_Analyzer/obj/Debug/Number_Analyzer.exe
+/Users/katedatema/Projects/Number_Analyzer/Number_Analyzer/obj/Debug/Number_Analyzer.pdb
